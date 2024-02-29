@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T18:18:25.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="OJZ9IoSEkz5OjN41C9Md" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-29T18:28:26.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="GuLBZ23Ii6FNnKOVn5bu" version="23.1.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="990" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,8 +92,16 @@
         <mxCell id="s6uV9QeXuFk3Kz8Zfo_D-28" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="570" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="s6uV9QeXuFk3Kz8Zfo_D-39" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s6uV9QeXuFk3Kz8Zfo_D-30" target="s6uV9QeXuFk3Kz8Zfo_D-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s6uV9QeXuFk3Kz8Zfo_D-30" value="Congratulation!&lt;br&gt;You have discovered the word!" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s6uV9QeXuFk3Kz8Zfo_D-41" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.838;entryY=0.338;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="s6uV9QeXuFk3Kz8Zfo_D-33" target="s6uV9QeXuFk3Kz8Zfo_D-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424" y="1100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="s6uV9QeXuFk3Kz8Zfo_D-33" value="Unfortunately you have run out of lives!&lt;br&gt;The word you had to guess was &#39; &#39;." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="1000" width="120" height="60" as="geometry" />
@@ -103,6 +111,9 @@
         </mxCell>
         <mxCell id="s6uV9QeXuFk3Kz8Zfo_D-36" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="951" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s6uV9QeXuFk3Kz8Zfo_D-38" value="Game Over" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="1080" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
